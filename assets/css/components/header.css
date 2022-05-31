@@ -1,0 +1,8 @@
+.header {
+    height: 150px;
+}
+.header p {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
